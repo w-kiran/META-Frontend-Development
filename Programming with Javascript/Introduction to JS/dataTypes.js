@@ -1,0 +1,9 @@
+/*
+String
+Number
+Boolean
+Null
+Undefined
+BigInt
+Symbol
+*/
